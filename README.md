@@ -1,4 +1,4 @@
-### Todo List
+# Todo List
 An example jQuery project, adding and remove todos with css animation.
 ![Project Image](doc/todoList.png)
 
