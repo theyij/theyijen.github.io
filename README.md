@@ -1,5 +1,5 @@
 ### Todo List
-An example javascript project, adding and remove todos with css animation.
+An example jQuery project, adding and remove todos with css animation.
 ![Project Image](doc/todoList.png)
 
 ## Link to the Project
@@ -12,7 +12,7 @@ This is a todo list project for customizing my version of lists.
 This project is not dynamic, but can add, remove todos.
 
 ## Tech Stack
-* Javascript
+* jQuery
 * CSS
 * DOM
 * HTML
