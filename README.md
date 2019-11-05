@@ -1,37 +1,18 @@
-# myPage
-personal portfolio
+### Todo List
+An example javascript project, adding and remove todos with css animation.
+![Project Image](doc/todoList.png)
 
-## layout
+## Link to the Project
+* [codepen](https://codepen.io/theyij/pen/YzzKjWV) 
 
-1.home
- 
- a.helloworld
- 
- b.motivations
+## Task
+This is a todo list project for customizing my version of lists.
 
-2.about
- 
- a.SNS links
- 
- b.previous company
+## Function
+This project is not dynamic, but can add, remove todos.
 
-3.Projects
- 
- a.languages
- 
- b.projects on codepen
-
-4.Contact
- 
- a.through sns
- 
- b.form(not functional)
-
--------
-## todo
-
--update contents
-
--projects on codepen updates
-
--personal time line(if possible)  
+## Tech Stack
+* Javascript
+* CSS
+* DOM
+* HTML
